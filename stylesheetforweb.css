@@ -1,0 +1,77 @@
+#header {
+    background-color: hsl(39, 100%, 60%);
+    color: white;
+}
+
+#menu li {
+    display: inline-block;
+}
+
+#menu {
+    list-style: none;
+    margin: 0;
+    padding: 0%;
+}
+
+#menu li a {
+    color: white;
+    padding: 15px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    background-color: rgb(179, 125, 25);
+}
+
+#logo {
+    margin: 11px;
+}
+
+#banner {
+    background: url(matthew-henry-VviFtDJakYk-unsplash.jpg) ;
+    background-size: cover;
+}
+
+#title {
+    background-color: wheat;
+    display: inline-block;
+    padding: auto;
+    margin: 23px;
+}
+
+#lead {
+    color: white;
+    padding: 7px;
+    margin: 5px;
+    display: inline-block;
+    background-color: rgba(253, 192, 78, 0.7);
+
+}
+
+#heading2 {
+    text-decoration-line: underline;
+}
+
+.section-box i {
+    color: hsl(39, 100%, 60%);
+    font-size: 70px;
+    margin: 25px;
+}
+
+.section {
+    background: url(nasa-Q1p7bh3SHj8-unsplash.jpg)no-repeat 0 0 ;
+    color: white;
+    background-size: cover;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    position: relative;
+} 
+.recent{
+    margin: 20px;
+}
+.lasts{
+    background-color: rgb(67, 65, 65);
+    color: white;
+}
